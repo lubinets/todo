@@ -11,3 +11,5 @@ Feed the cat
 Drink wine
 Get some rest
 Write Python code
+Clean the house
+Learn Python!
