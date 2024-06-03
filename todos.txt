@@ -1,15 +1,10 @@
 Drink coffee
 Clean the house
-Watch TV
-Go for a walk
-Sleep well
-Have fun
 Eat good food
 Wash dishes
 Feed the cat
 Drink water
 Get some rest
-Write Python code
 Clean the house
 Learn Python!
 My newest todo
